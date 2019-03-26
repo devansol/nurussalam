@@ -1,7 +1,7 @@
   <section id="why-us" class="wow fadeIn">
     <div class="container">
       <header class="section-header">
-        <h3>Why choose us?</h3>
+        <h3>DARUL AITAM NURUSSALAM</h3>
         <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
       </header>
 
@@ -63,7 +63,7 @@
           <span data-toggle="counter-up">18</span>
           <p>Hard Workers</p>
         </div>
-        
+
       </div>
 
     </div>
